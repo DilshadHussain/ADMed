@@ -12,3 +12,4 @@ six==1.16.0
 soupsieve==2.6
 urllib3==2.2.3
 wrapt==1.16.0
+openpyxl=3.1.5
