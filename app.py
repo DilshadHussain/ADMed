@@ -17,11 +17,11 @@ pyportfolioopt
 import pandas as pd
 import numpy as np
 import streamlit as st
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 from datetime import date
 import datetime as dt
-import plotly.express as px
-import plotly.graph_objects as go
+# import plotly.express as px
+# import plotly.graph_objects as go
 
 # read data
 @st.cache_data
