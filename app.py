@@ -26,7 +26,7 @@ import datetime as dt
 # read data
 @st.cache_data
 def load_data():
-    df = pd.read_excel(f"Service Wise Collection Report.xlsx")
+    df = pd.read_excel("Service Wise Collection Report.xlsx")
     # df = df.iloc[2:]
     return df
 
